@@ -1,0 +1,8 @@
+{
+    "uuid": "grive-sync@t3pleni9.com",
+    "name": "Grive Sync",
+    "description": "Sync google drive with one click",
+    "icon": "emblem-synchronizing",
+    "max-instances": "-1"
+}
+

@@ -1,0 +1,14 @@
+{
+ "select-drive-folder" : {
+    "type" : "filechooser",
+    "default" : "/home/justin/",
+    "description": "Local folder for sync",
+    "tooltip": "Set your local folder to sync."
+ },
+ "grive-init" : {
+    "type" : "button",
+    "description" : "Set up Grive for selected folder",
+    "callback" : "_launch_auth",
+    "tooltip" : "Press this button to customize your menu entries."
+ }
+}
