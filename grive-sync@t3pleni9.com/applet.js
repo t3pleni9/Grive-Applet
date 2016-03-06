@@ -49,7 +49,7 @@ MyApplet.prototype = {
     this.menu.addActor(this._griveMenu);
     this._griveMenu.show_all();
     
-    let item = new PopupMenu.PopupMenuItem(_("Sync"));
+    let item = new PopupMenu.PopupMenuItem(_("Sync Drive"));
     item.connect("activate", Lang.bind(this, this.on_sync));
     item.actor.can_focus = true;
     global.reparentActor(item.actor, this._griveMenu);
