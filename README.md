@@ -8,5 +8,4 @@ Install Google drive helper for linux, [grive](https://github.com/Grive/grive). 
 ### Configuration:
 
 - Configure the applet to point to your local directory.
-- Run sync for the first time. (Auto sync runs at every machine startup).
-- Log file maintained 
+- Run sync for syncing files. (Auto sync capability to be added.)
