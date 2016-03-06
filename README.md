@@ -1,6 +1,14 @@
 ## Grive applet for Cinnamon.
-1. Initialise the [grive](https://github.com/Grive/grive) configuring the Applet
+Install Google drive helper for linux, [grive](https://github.com/Grive/grive). Follow the authentication and installation steps mentioned.
 
-2. Set default directory.
+# Installation:
 
-3. Enjoy
+- Run 'sh install.sh'
+
+# Configuration:
+
+- Configure the applet to point to your local directory.
+
+- Run sync for the first time. (Auto sync runs at every machine startup).
+
+-Log file maintained 
